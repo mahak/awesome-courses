@@ -6,7 +6,8 @@ Introduction
 
 There are a lot of ~~hidden~~ treasures lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome CS courses which make their high-quality materials, i.e. assignments, lectures, notes, readings and examinations, available online for free.
 
-Table of Contents
+Table of Contents use numbering which will be more clear
+
 -----------------
 
 - [Algorithms](#algorithms)
